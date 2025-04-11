@@ -313,7 +313,7 @@ img {
     object-fit: cover; /* Ensures image covers the area without distortion */
     transition: var(--transition);
     display: block; /* Removes any default inline spacing */
-    margin-right: auto; /* Pushes image to the left */
+    margin-right: auto; /* Pushes image to the  */
     margin-left: 0; /* Ensures no left margin */
 }
 
